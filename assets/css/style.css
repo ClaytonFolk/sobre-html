@@ -1,0 +1,120 @@
+.container{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+}
+.caixa01{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 10px;
+}
+.minicaixa01{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+}
+.caixa02{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    align-items: center;
+}
+.minicaixa02{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+}
+.caixa03{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    align-items: end;
+}
+.minicaixa03{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+}
+.caixa04{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    justify-content: center;
+}
+.minicaixa04{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+}
+.caixa05{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    align-items: center;
+    justify-content: center;
+}
+.minicaixa05{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+}
+.caixa06{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    align-items: end;
+    justify-content: center;
+}
+.minicaixa06{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+}
+.caixa07{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    justify-content: end;
+}
+.minicaixa07{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+}
+.caixa08{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    justify-content: end;
+    align-items: center;
+}
+.minicaixa08{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+}
+.caixa09{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    align-items: end;
+    justify-content: end;
+}
+.minicaixa09{
+    width: 60px;
+    height: 60px;
+    background-color: black;
+}
